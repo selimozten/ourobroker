@@ -1,0 +1,11 @@
+dex:
+  urls:
+    - "https://dex1.api"
+    - "https://dex2.api"
+  tokens:
+    - "ETH"
+    - "DAI"
+    - "USDC"
+
+risk:
+  max_exposure: 1000000
