@@ -1,6 +1,6 @@
 # OuroBroker
 
-![OuroBroker Banner](/assets/ourobroker.png)
+![OuroBroker Banner](/assets/ob-logo.png)
 
 [![GitHub license](https://img.shields.io/github/license/selimozten/ourobroker.svg)](https://github.com/selimozten/ourobroker/blob/main/LICENSE)
 [![GitHub release](https://img.shields.io/github/release/selimozten/ourobroker.svg)](https://GitHub.com/selimozten/ourobroker/releases/)
